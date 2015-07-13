@@ -47,9 +47,13 @@
 }
 #terms{
     margin-left: 5px;
+    margin-top: 60px;
 }
 #logintosite{
     background-color: cornflowerblue;
     width: 100px;
+}
+#bottomlinks{
+    padding: 5px;
 }
     
